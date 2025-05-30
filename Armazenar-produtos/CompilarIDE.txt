@@ -1,0 +1,3 @@
+para compilar em uma IDE, como vs code
+gcc main.c pss.c -o (nome do executavel)
+./(nome do executavel)
